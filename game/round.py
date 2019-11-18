@@ -14,3 +14,4 @@ class Round:
             self.players[i].assignCards(shuffledCards[i*self.cardsPerPlayer:(i+1) * self.cardsPerPlayer])
 
     def play(self):
+        pass
