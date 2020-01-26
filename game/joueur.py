@@ -39,9 +39,6 @@ class Joueur:
 	def getNbrCarte(self):
 		return len(self.listeCarte)
 
-	def getCarte(self):
-		return len(self.Carte)
-
 	def getPenalite(self):
 		return self.penalite
 
